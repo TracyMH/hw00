@@ -1,0 +1,36 @@
+---
+title: "hw00-minhuic2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+1. James Balamuta
+2. Tech Plaza 212F Tuesday & Thursday, 9:00 – 10:00 AM, Room G36 of the Foreign Language Building (FLB)
+3. [STAT 385] Group project question
+4. Monday, Wednesday, and Friday, 2:00 PM - 2:50 PM 218 Mechanical Engineering Bldg 
+5. Two. Midterm and Final. Both of them would have an in-class portion and may have a take-home portion that will be due within 24-48 hours after the start of the exam.
+6. Each phases is worth 100 points making the overall project grade 400 points or 40 % of the overall course grade. No. Students would also be judged based on individual contribution to the group according to peer evaluations.
+7. Students who opt to work together must list the full names and netids of the students that they have collaborated with at the top of the document. Each student must also turn in their own homework answers. Citing code online is okay as long as citing where the code originated from and are not having someone answer the question in verbatim. 
